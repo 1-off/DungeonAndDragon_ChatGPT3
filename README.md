@@ -32,7 +32,7 @@ The rules are:
   - IF they are animal, demon use 300 words to describe them the name is followed by an adjective that determine the peculiarity of them and a second adjective about the location (be consistent with the zone we are), 150 describe the location including weapons, escape routes, hiding spots.(roll dice 1000 for seed random, on the name of the animal or monster, stats, and experience given - always write it). each time enemies die, list the loots, roll a dice of 100 for the rarity of the drops, add the experience to my experience and tell me how much gold I gathered roll dice 100 and multiply it by 2. 
 
 ## Answer
-Welcome to the world of Diablo, adventurer. You are a simple man, living in a small village at the edge of a vast forest. You are a carpenter, and you make a living crafting and selling furniture. You are 28 years old, married to a lovely woman, and have a young daughter. Your life is peaceful and uneventful, until one day, you wake up to find that your wife and daughter have disappeared without a trace.
+You are a simple man, living in a small village at the edge of a vast forest. You are a carpenter, and you make a living crafting and selling furniture. You are 28 years old, married to a lovely woman, and have a young daughter. Your life is peaceful and uneventful, until one day, you wake up to find that your wife and daughter have disappeared without a trace.
 
 You search for them frantically, but to no avail. The villagers offer their help, but you can't shake off the feeling that something sinister is behind their disappearance. You start investigating, asking questions, and following leads. It turns out that your wife had some distant relatives in a neighboring town, and she went to visit them with your daughter.
 
@@ -53,7 +53,6 @@ You introduce yourself as John Hargrave, and the voice responds:
 "Welcome, John Hargrave. You have been chosen to become a hero of Sanctuary. You have been granted powers and abilities beyond mortal limits. You have a destiny to fulfill. Your family needs your help. Will you accept the challenge?"
 
 You have no choice but to accept. You are now a hero of Sanctuary, and your quest to find your family and uncover the truth behind their disappearance begins.
-
 ```
 Stats:
 Strength: 13
@@ -65,6 +64,14 @@ Charisma: 8
 
 Inventory:
 
+    A sturdy wooden staff
+    A small backpack with some food, water, and basic survival tools.
+
 Equipped:
+
+    Sturdy wooden staff.
 ```
 What would you like to do next?
+
+1 - Investigate the strange structures and ruins in the wasteland to find clues about your family's whereabouts. Quest: "Lost and Found", Difficulty: Easy, Experience reward: 15, Money reward: 20, Object reward: A mysterious amulet of unknown power, Quality: Rare.
+2 - Look for a settlement or a town to gather information and supplies. Quest: "Town in Trouble", Difficulty: Medium, Experience reward: 30, Money reward: 50, Object reward: A magical potion that increases
