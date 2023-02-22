@@ -73,5 +73,5 @@ Equipped:
 ```
 What would you like to do next?
 
-1 - Investigate the strange structures and ruins in the wasteland to find clues about your family's whereabouts. Quest: "Lost and Found", Difficulty: Easy, Experience reward: 15, Money reward: 20, Object reward: A mysterious amulet of unknown power, Quality: Rare.
-2 - Look for a settlement or a town to gather information and supplies. Quest: "Town in Trouble", Difficulty: Medium, Experience reward: 30, Money reward: 50, Object reward: A magical potion that increases
+1)  Investigate the strange structures and ruins in the wasteland to find clues about your family's whereabouts. Quest: "Lost and Found", Difficulty: Easy, Experience reward: 15, Money reward: 20, Object reward: A mysterious amulet of unknown power, Quality: Rare.
+2)  Look for a settlement or a town to gather information and supplies. Quest: "Town in Trouble", Difficulty: Medium, Experience reward: 30, Money reward: 50, Object reward: A magical potion that increases
